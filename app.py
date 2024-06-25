@@ -11,14 +11,14 @@ scaler = joblib.load(scaler_path)
 
 # Set up the Streamlit app
 st.title('Maternal Health Risk Prediction')
-
+image_path = "Mathealth.jpg"
+st.image(image_path, width=400)
 # Input features from the user with validation
 st.sidebar.header('Input Parameters')
 age = st.sidebar.number_input('Age', min_value=10, max_value=100, value=25)
 systolic_bp = st.sidebar.number_input('Systolic Blood Pressure (mm Hg)', min_value=80, max_value=200, value=120)
-bs = st.sidebar.number_input('Blood Sugar Level (mg/dL)', min_value=0, max_value=200, value=100)
-body_temp = st.sidebar.number_input('Body Temperature (°C)', min_value=35.0, max_value=100.0, value=37.0, format="%.1f")
-
+bs = st.sidebar.number_input('Blood Sugar Level (mmol/l)', min_value=0.00, max_value=20.00, value=5.00, format="%.2f")
+body_temp = st.sidebar.number_input('Body Temperature (°F)', min_value=90.0, max_value=120.0, value=98.0, format="%.1f")
 # Validate inputs
 if age < 10 or age > 100:
     st.sidebar.error("Age must be between 10 and 100.")
@@ -26,7 +26,7 @@ if systolic_bp < 80 or systolic_bp > 200:
     st.sidebar.error("Systolic Blood Pressure must be between 80 and 200 mm Hg.")
 if bs < 0 or bs > 200:
     st.sidebar.error("Blood Sugar Level must be between 0 and 200 mg/dL.")
-if body_temp < 35.0 or body_temp > 100.0:
+if body_temp < 35.0 or body_temp > 105.0:
     st.sidebar.error("Body Temperature must be between 35.0 and 100.0 °C.")
 
 # Feature names (matching those used during training)
@@ -41,13 +41,13 @@ st.write(input_data)
 if st.button('Predict'):
     # Check if any validation errors exist
     validation_errors = False
-    if age < 10 or age > 100 or systolic_bp < 80 or systolic_bp > 200 or bs < 0 or bs > 200 or body_temp < 35.0 or body_temp > 100.0:
+    if age < 10 or age > 100 or systolic_bp < 80 or systolic_bp > 200 or bs < 0 or bs > 200 or body_temp < 35.0 or body_temp > 105.0:
         validation_errors = True
 
     if not validation_errors:
         # Apply the same scaling to input data
         input_data_scaled = scaler.transform(input_data)
-        st.write(input_data_scaled)
+        #st.write(input_data_scaled)
         # Make the prediction
         try:
             prediction = model.predict(input_data_scaled)
