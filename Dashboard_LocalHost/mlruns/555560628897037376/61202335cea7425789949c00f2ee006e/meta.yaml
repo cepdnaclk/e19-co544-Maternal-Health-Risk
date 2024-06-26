@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/61202335cea7425789949c00f2ee006e/artifacts
+end_time: 1719258458662
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 61202335cea7425789949c00f2ee006e
+run_name: agreeable-shoat-758
+run_uuid: 61202335cea7425789949c00f2ee006e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258455615
+status: 3
+tags: []
+user_id: hamsh

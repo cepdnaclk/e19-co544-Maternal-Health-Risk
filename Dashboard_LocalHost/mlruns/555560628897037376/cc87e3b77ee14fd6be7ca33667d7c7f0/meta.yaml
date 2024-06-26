@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/cc87e3b77ee14fd6be7ca33667d7c7f0/artifacts
+deleted_time: 1719257805470
+end_time: 1719257552557
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: deleted
+run_id: cc87e3b77ee14fd6be7ca33667d7c7f0
+run_name: amusing-gnu-627
+run_uuid: cc87e3b77ee14fd6be7ca33667d7c7f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719257547876
+status: 3
+tags: []
+user_id: hamsh

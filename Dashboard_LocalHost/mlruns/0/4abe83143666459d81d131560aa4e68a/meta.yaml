@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4abe83143666459d81d131560aa4e68a/artifacts
+deleted_time: 1719256642777
+end_time: 1719256457739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4abe83143666459d81d131560aa4e68a
+run_name: wise-shoat-363
+run_uuid: 4abe83143666459d81d131560aa4e68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256454590
+status: 3
+tags: []
+user_id: hamsh

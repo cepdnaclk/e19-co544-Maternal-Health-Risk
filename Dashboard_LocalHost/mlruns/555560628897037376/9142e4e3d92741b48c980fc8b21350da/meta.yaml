@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/9142e4e3d92741b48c980fc8b21350da/artifacts
+deleted_time: 1719257364976
+end_time: 1719256989977
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: deleted
+run_id: 9142e4e3d92741b48c980fc8b21350da
+run_name: glamorous-whale-250
+run_uuid: 9142e4e3d92741b48c980fc8b21350da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256985364
+status: 3
+tags: []
+user_id: hamsh

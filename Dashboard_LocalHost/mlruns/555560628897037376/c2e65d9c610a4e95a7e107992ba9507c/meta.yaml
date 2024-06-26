@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/c2e65d9c610a4e95a7e107992ba9507c/artifacts
+deleted_time: 1719257364975
+end_time: 1719257003893
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: deleted
+run_id: c2e65d9c610a4e95a7e107992ba9507c
+run_name: caring-wasp-871
+run_uuid: c2e65d9c610a4e95a7e107992ba9507c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719257000889
+status: 3
+tags: []
+user_id: hamsh

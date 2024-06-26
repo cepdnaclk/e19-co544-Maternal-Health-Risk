@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0c0bb86ec059440cbbc7a0e36c9d91c0/artifacts
+deleted_time: 1719256642778
+end_time: 1719256452637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0c0bb86ec059440cbbc7a0e36c9d91c0
+run_name: bald-fawn-123
+run_uuid: 0c0bb86ec059440cbbc7a0e36c9d91c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256449528
+status: 3
+tags: []
+user_id: hamsh

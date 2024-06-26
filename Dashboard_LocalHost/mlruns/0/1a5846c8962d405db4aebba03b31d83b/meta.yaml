@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1a5846c8962d405db4aebba03b31d83b/artifacts
+deleted_time: 1719258042711
+end_time: 1719257984097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1a5846c8962d405db4aebba03b31d83b
+run_name: caring-worm-298
+run_uuid: 1a5846c8962d405db4aebba03b31d83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719257978315
+status: 4
+tags: []
+user_id: hamsh

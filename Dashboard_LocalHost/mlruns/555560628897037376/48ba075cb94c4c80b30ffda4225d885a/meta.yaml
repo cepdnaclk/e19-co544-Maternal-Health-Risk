@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/48ba075cb94c4c80b30ffda4225d885a/artifacts
+end_time: 1719325709957
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 48ba075cb94c4c80b30ffda4225d885a
+run_name: exultant-bird-640
+run_uuid: 48ba075cb94c4c80b30ffda4225d885a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719325704768
+status: 3
+tags: []
+user_id: hamsh

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/beae4f4a72574e269f6e0d1c5d975509/artifacts
+deleted_time: 1719256642768
+end_time: 1719256462013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: beae4f4a72574e269f6e0d1c5d975509
+run_name: masked-hound-649
+run_uuid: beae4f4a72574e269f6e0d1c5d975509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256458987
+status: 3
+tags: []
+user_id: hamsh

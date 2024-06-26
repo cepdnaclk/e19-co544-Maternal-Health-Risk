@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/50323eaa29b044cf8a7cd8301d64bfbe/artifacts
+deleted_time: 1719256642799
+end_time: 1719256354447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 50323eaa29b044cf8a7cd8301d64bfbe
+run_name: fortunate-stork-829
+run_uuid: 50323eaa29b044cf8a7cd8301d64bfbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256348011
+status: 3
+tags: []
+user_id: hamsh

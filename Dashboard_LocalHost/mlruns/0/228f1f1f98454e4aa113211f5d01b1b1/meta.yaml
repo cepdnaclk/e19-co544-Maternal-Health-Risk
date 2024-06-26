@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/228f1f1f98454e4aa113211f5d01b1b1/artifacts
+deleted_time: 1719258042712
+end_time: 1719257987405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 228f1f1f98454e4aa113211f5d01b1b1
+run_name: ambitious-shrew-481
+run_uuid: 228f1f1f98454e4aa113211f5d01b1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719257984289
+status: 3
+tags: []
+user_id: hamsh

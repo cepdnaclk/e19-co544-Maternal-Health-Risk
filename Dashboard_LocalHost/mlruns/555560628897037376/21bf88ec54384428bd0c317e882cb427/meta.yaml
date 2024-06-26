@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/21bf88ec54384428bd0c317e882cb427/artifacts
+end_time: 1719323257087
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 21bf88ec54384428bd0c317e882cb427
+run_name: tasteful-trout-997
+run_uuid: 21bf88ec54384428bd0c317e882cb427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719323253249
+status: 3
+tags: []
+user_id: hamsh

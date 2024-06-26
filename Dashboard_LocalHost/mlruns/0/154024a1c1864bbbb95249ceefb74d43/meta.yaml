@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/154024a1c1864bbbb95249ceefb74d43/artifacts
+deleted_time: 1719256642793
+end_time: 1719256429209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 154024a1c1864bbbb95249ceefb74d43
+run_name: awesome-mare-570
+run_uuid: 154024a1c1864bbbb95249ceefb74d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256425978
+status: 3
+tags: []
+user_id: hamsh

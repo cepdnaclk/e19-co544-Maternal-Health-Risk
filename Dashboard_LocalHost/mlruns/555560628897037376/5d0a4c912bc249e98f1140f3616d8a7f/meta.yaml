@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/5d0a4c912bc249e98f1140f3616d8a7f/artifacts
+end_time: 1719340661386
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 5d0a4c912bc249e98f1140f3616d8a7f
+run_name: burly-perch-795
+run_uuid: 5d0a4c912bc249e98f1140f3616d8a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719340656428
+status: 3
+tags: []
+user_id: hamsh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/a9ce5cab86bd4614ba9a6feeaeb8ad0e/artifacts
+end_time: 1719258425026
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: a9ce5cab86bd4614ba9a6feeaeb8ad0e
+run_name: welcoming-quail-195
+run_uuid: a9ce5cab86bd4614ba9a6feeaeb8ad0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258421242
+status: 3
+tags: []
+user_id: hamsh

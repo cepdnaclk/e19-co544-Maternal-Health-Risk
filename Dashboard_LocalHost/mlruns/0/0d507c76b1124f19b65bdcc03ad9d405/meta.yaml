@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0d507c76b1124f19b65bdcc03ad9d405/artifacts
+deleted_time: 1719256642796
+end_time: 1719256368904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0d507c76b1124f19b65bdcc03ad9d405
+run_name: peaceful-yak-948
+run_uuid: 0d507c76b1124f19b65bdcc03ad9d405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256365912
+status: 3
+tags: []
+user_id: hamsh

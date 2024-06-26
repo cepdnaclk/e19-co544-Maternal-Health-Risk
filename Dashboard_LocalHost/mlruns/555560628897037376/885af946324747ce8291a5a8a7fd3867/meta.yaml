@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/885af946324747ce8291a5a8a7fd3867/artifacts
+end_time: 1719258443377
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 885af946324747ce8291a5a8a7fd3867
+run_name: valuable-ape-253
+run_uuid: 885af946324747ce8291a5a8a7fd3867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258440310
+status: 3
+tags: []
+user_id: hamsh

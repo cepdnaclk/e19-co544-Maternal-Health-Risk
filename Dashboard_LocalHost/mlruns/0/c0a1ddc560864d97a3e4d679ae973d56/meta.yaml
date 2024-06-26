@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c0a1ddc560864d97a3e4d679ae973d56/artifacts
+deleted_time: 1719256642783
+end_time: 1719256443279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c0a1ddc560864d97a3e4d679ae973d56
+run_name: victorious-fowl-354
+run_uuid: c0a1ddc560864d97a3e4d679ae973d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256440139
+status: 3
+tags: []
+user_id: hamsh

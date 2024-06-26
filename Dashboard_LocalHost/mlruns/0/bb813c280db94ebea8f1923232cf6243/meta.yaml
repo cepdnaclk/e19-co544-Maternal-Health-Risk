@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bb813c280db94ebea8f1923232cf6243/artifacts
+deleted_time: 1719256642790
+end_time: 1719256437997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bb813c280db94ebea8f1923232cf6243
+run_name: inquisitive-moose-17
+run_uuid: bb813c280db94ebea8f1923232cf6243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256434930
+status: 3
+tags: []
+user_id: hamsh

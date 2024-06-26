@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/d2a300aab4524294a0c4fbd19b73d934/artifacts
+end_time: 1719258451680
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: d2a300aab4524294a0c4fbd19b73d934
+run_name: awesome-lamb-112
+run_uuid: d2a300aab4524294a0c4fbd19b73d934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258448573
+status: 3
+tags: []
+user_id: hamsh

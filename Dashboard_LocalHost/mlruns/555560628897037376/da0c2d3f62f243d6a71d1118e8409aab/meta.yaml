@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/da0c2d3f62f243d6a71d1118e8409aab/artifacts
+end_time: 1719258429605
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: da0c2d3f62f243d6a71d1118e8409aab
+run_name: adventurous-boar-519
+run_uuid: da0c2d3f62f243d6a71d1118e8409aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258426671
+status: 3
+tags: []
+user_id: hamsh

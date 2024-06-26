@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/0f9f73a182674e52b943b7cba876a350/artifacts
+end_time: 1719258303791
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 0f9f73a182674e52b943b7cba876a350
+run_name: kindly-cow-735
+run_uuid: 0f9f73a182674e52b943b7cba876a350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258300750
+status: 3
+tags: []
+user_id: hamsh

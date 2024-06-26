@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555560628897037376/82614ecf343d42c29c53b9209090f274/artifacts
+end_time: 1719258334421
+entry_point_name: ''
+experiment_id: '555560628897037376'
+lifecycle_stage: active
+run_id: 82614ecf343d42c29c53b9209090f274
+run_name: polite-sloth-675
+run_uuid: 82614ecf343d42c29c53b9209090f274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719258331303
+status: 3
+tags: []
+user_id: hamsh

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a20307e426c941d184a3c47ffacf7df5/artifacts
+deleted_time: 1719256642791
+end_time: 1719256433897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a20307e426c941d184a3c47ffacf7df5
+run_name: blushing-fly-121
+run_uuid: a20307e426c941d184a3c47ffacf7df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256430780
+status: 3
+tags: []
+user_id: hamsh
