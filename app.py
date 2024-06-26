@@ -24,10 +24,10 @@ if age < 10 or age > 100:
     st.sidebar.error("Age must be between 10 and 100.")
 if systolic_bp < 80 or systolic_bp > 200:
     st.sidebar.error("Systolic Blood Pressure must be between 80 and 200 mm Hg.")
-if bs < 0 or bs > 200:
-    st.sidebar.error("Blood Sugar Level must be between 0 and 200 mg/dL.")
-if body_temp < 35.0 or body_temp > 105.0:
-    st.sidebar.error("Body Temperature must be between 35.0 and 100.0 °C.")
+if bs < 0.00 or bs > 20.00:
+    st.sidebar.error("Blood Sugar Level must be between 0.00 and 20.00 mmol/L.")
+if body_temp < 90.0 or body_temp > 120.0:
+    st.sidebar.error("Body Temperature must be between 90.0 and 120.0 °F.")
 
 # Feature names (matching those used during training)
 feature_names = ['Age', 'SystolicBP', 'BS', 'BodyTemp']
@@ -41,7 +41,7 @@ st.write(input_data)
 if st.button('Predict'):
     # Check if any validation errors exist
     validation_errors = False
-    if age < 10 or age > 100 or systolic_bp < 80 or systolic_bp > 200 or bs < 0 or bs > 200 or body_temp < 35.0 or body_temp > 105.0:
+    if age < 10 or age > 100 or systolic_bp < 80 or systolic_bp > 200 or bs < 0.00 or bs > 20.00 or body_temp < 90.0 or body_temp > 120.0:
         validation_errors = True
 
     if not validation_errors:
